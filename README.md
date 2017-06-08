@@ -6,11 +6,11 @@ python imdb2.py
 Requires 
 - - URLLIB3
     -To install
-    -sudo pip install urllib3
+            - sudo pip install urllib3
     
 - - BeautifulSoup
     -To install
-    -sudo pip install beautifulsoup4
+            -sudo pip install beautifulsoup4
     
 Working
 
